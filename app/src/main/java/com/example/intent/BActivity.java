@@ -29,6 +29,8 @@ public class BActivity extends AppCompatActivity {
 //        to display data in tost
 //        Toast.makeText(this, email + " , " + country+" , "+enrollment,Toast.LENGTH_SHORT).show();
 
+
+        //to display data in
         TextView txtView_email = findViewById(R.id.display_email);
         txtView_email.setText("Email : " + email);
 
